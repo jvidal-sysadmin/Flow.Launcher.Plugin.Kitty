@@ -1,0 +1,4 @@
+{
+    "kitty_path":"d:\\KiTTY",
+    "exclude_regex": ".*\\\\OLD(\\\\?.*)"
+}

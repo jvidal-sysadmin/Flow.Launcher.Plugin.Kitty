@@ -1,0 +1,12 @@
+{
+    "ID":"6a03a879-fbb0-400b-b884-240bffa84a6b",
+    "ActionKeyword":"kitty",
+    "Name":"kitty",
+    "Description":"Launch Kitty sessions from a directory",
+    "Author":"jvidal-sysadmin",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/jvidal-sysadmin/Flow.Launcher.Plugin.Kitty",
+    "ExecuteFileName":"main.py",
+    "IcoPath": "kitty.png"
+}
